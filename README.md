@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![Video Walkthrough](https://img.youtube.com/vi/sBmvalUJoeY/0.jpg)](https://www.youtube.com/watch?v=sBmvalUJoeY)
+[![Video Walkthrough](https://img.youtube.com/vi/KscFNwz1ULA/0.jpg)](https://www.youtube.com/watch?v=KscFNwz1ULA)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
