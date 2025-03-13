@@ -1,19 +1,19 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Flashcards pt 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Adrian Vazquez**
 
-This web app: **insert description**
+This web app: **Continuing from Flashcards pt 1, with added input field for user to check answers.**
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The user can enter their guess in a box before seeing the flipside of the card**
-- [ ] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [ ] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [ ] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+- [X] **The user can enter their guess in a box before seeing the flipside of the card**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
@@ -22,30 +22,25 @@ The following **optional** features are implemented:
 - [ ] A counter displays the user's current and longest streak of correct responses
 - [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://img.youtube.com/vi/KscFNwz1ULA/0.jpg)](https://www.youtube.com/watch?v=KscFNwz1ULA)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+- **Youtube**
+- **Screencastify Screen Recorder**
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first, I struggled with linking the user input to the answers of the cards.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Adrian Vazquez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
