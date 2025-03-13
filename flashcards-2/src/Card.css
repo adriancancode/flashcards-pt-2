@@ -1,0 +1,11 @@
+.card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 1px solid #5d5d5d;
+    padding: 8px;
+    width: 900px;
+    height: 500px;
+    margin: 1rem;
+}
